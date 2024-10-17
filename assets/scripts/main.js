@@ -85,3 +85,5 @@ fetch('../../db/photocards.json')
         mainContainer.appendChild(card)
     });
 })
+
+console.log('Pagina cargada correctamente')
