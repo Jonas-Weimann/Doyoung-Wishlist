@@ -62,7 +62,8 @@ fetch('../../db/photocards.json')
                 inputLabel:"New Price",
                 inputPlaceholder: "Enter the price",
                 inputAttributes:{
-                    min: 0.01
+                    min: 0.01,
+                    step:0.01
                 },
                 inputValue: 0.01
             }).then((result)=>{
