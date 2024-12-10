@@ -5,7 +5,8 @@
         "version": "Dream",
         "img": "assets/images/EMPATHYDream.png",
         "link": "https://pocamarket.com/search/detail/1927",
-        "price": "2.5"
+        "price": "2.5",
+        "status": ""
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "version": "x",
         "img": "assets/images/CHAIN.png",
         "link": "https://pocamarket.com/search/detail/1928",
-        "price": "9"
+        "price": "9",
+        "status": ""
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "version":"Regular",
         "img":"assets/images/REGULAR.png",
         "link": "https://pocamarket.com/search/detail/1929",
-        "price": "5.5"
+        "price": "5.5",
+        "status": ""
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "version": "x",
         "img": "assets/images/AWAKEN.png",
         "link": "https://pocamarket.com/search/detail/1932",
-        "price": "2"
+        "price": "2",
+        "status": ""
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "version": "1st player",
         "img": "assets/images/THEFINALROUND1st.png",
         "link": "https://pocamarket.com/search/detail/1940",
-        "price": "2"
+        "price": "2",
+        "status": ""
     },
     {
         "id": 6,
@@ -45,7 +50,8 @@
         "version": "1st player Kinho",
         "img": "assets/images/THEFINALROUND1stKinho.png",
         "link": "https://pocamarket.com/search/detail/1942",
-        "price": "6"
+        "price": "6",
+        "status": ""
     },
     {
         "id": 7,
@@ -53,7 +59,8 @@
         "version": "2nd player Kinho",
         "img": "assets/images/THEFINALROUND2ndKinho.png",
         "link": "https://pocamarket.com/search/detail/1943",
-        "price": "4.5"
+        "price": "4.5",
+        "status": ""
     },
     {
         "id": 8,
@@ -61,7 +68,8 @@
         "version": "Future",
         "img": "assets/images/RESONANCE1.png",
         "link": "https://pocamarket.com/search/detail/1945",
-        "price": "6.5"
+        "price": "6.5",
+        "status": ""
     },
     {
         "id": 9,
@@ -69,7 +77,8 @@
         "version": "Future kit",
         "img": "assets/images/RESONANCE1Kit.png",
         "link": "https://pocamarket.com/search/detail/1949",
-        "price": "12"
+        "price": "12",
+        "status": ""
     },
     {
         "id": 10,
@@ -77,7 +86,8 @@
         "version": "Departure Kinho",
         "img": "assets/images/RESONANCE2DepartureKinho.png",
         "link": "https://pocamarket.com/search/detail/12356",
-        "price": "22"
+        "price": "22",
+        "status": ""
     },
     {
         "id": 11,
@@ -85,7 +95,8 @@
         "version": "Arrival Kinho",
         "img": "assets/images/RESONANCE2ArrivalKinho.png",
         "link": "https://pocamarket.com/search/detail/13053",
-        "price": "4"
+        "price": "4",
+        "status": ""
     },
     {
         "id": 12,
@@ -93,7 +104,8 @@
         "version": "A",
         "img": "assets/images/LOVEHOLICA.png",
         "link": "https://pocamarket.com/search/detail/21117",
-        "price": "10"
+        "price": "10",
+        "status": ""
     },
     {
         "id": 13,
@@ -101,7 +113,8 @@
         "version": "B1",
         "img": "assets/images/LOVEHOLICB1.png",
         "link": "https://pocamarket.com/search/detail/21118",
-        "price": "2"
+        "price": "2",
+        "status": ""
     },
     {
         "id": 14,
@@ -109,7 +122,8 @@
         "version": "B2",
         "img": "assets/images/LOVEHOLICB2.png",
         "link": "https://pocamarket.com/search/detail/25046",
-        "price": "2"
+        "price": "2",
+        "status": ""
     },
     {
         "id": 15,
@@ -117,7 +131,8 @@
         "version": "C",
         "img": "assets/images/LOVEHOLICC.png",
         "link": "https://pocamarket.com/search/detail/17935",
-        "price": "10.5"
+        "price": "10.5",
+        "status": ""
     },
     {
         "id": 16,
@@ -125,7 +140,8 @@
         "version": "SMtown",
         "img": "assets/images/SMCUEXPRESS.png",
         "link": "https://pocamarket.com/search/detail/31934",
-        "price": "10"
+        "price": "10",
+        "status": ""
     },
     {
         "id": 17,
@@ -133,7 +149,8 @@
         "version": "Japan photobook",
         "img": "assets/images/2BADDIESJPpb.png",
         "link": "https://pocamarket.com/search/detail/94165",
-        "price": "15"
+        "price": "15",
+        "status": ""
     },
     {
         "id": 18,
@@ -141,7 +158,8 @@
         "version": "Japan digipack",
         "img": "assets/images/2BADDIESJPdigipack.png",
         "link": "https://buyee.jp/mercari/item/m42371194071?conversionType=Mercari_DirectSearch",
-        "price": "2.34"
+        "price": "2.34",
+        "status": ""
     },
     {
         "id": 19,
@@ -149,7 +167,8 @@
         "version": "US digipack",
         "img": "assets/images/2BADDIESUSdigipack.png",
         "link": "https://pocamarket.com/search/detail/71545",
-        "price": "32"
+        "price": "32",
+        "status": ""
     },
     {
         "id": 20,
@@ -157,7 +176,8 @@
         "version": "Nemo",
         "img": "assets/images/2BADDIESNemo.png",
         "link": "https://pocamarket.com/search/detail/73193",
-        "price": "9"
+        "price": "9",
+        "status": ""
     },
     {
         "id": 21,
@@ -165,7 +185,8 @@
         "version": "Target exclusive",
         "img": "assets/images/2BADDIESTarget.png",
         "link": "https://buyee.jp/mercari/item/m18219941418?conversionType=Mercari_DirectSearch",
-        "price": "7.8"
+        "price": "7.8",
+        "status": ""
     },
     {
         "id": 22,
@@ -173,7 +194,8 @@
         "version": "Palace",
         "img": "assets/images/SMCUPALACEPalace.png",
         "link": "https://buyee.jp/mercari/item/m81224692890?conversionType=Mercari_DirectSearch",
-        "price": "28.08"
+        "price": "28.08",
+        "status": ""
     },
     {
         "id": 23,
@@ -181,7 +203,8 @@
         "version": "Portrait",
         "img": "assets/images/SMCUPALACEPortrait.png",
         "link": "https://buyee.jp/mercari/item/m66735558444?conversionType=Mercari_DirectSearch",
-        "price": "21.06"
+        "price": "21.06",
+        "status": ""
     },
     {
         "id": 24,
@@ -189,7 +212,8 @@
         "version": "Target exclusive",
         "img": "assets/images/AYYOTarget.png",
         "link": "https://www.ebay.com/itm/355671694949",
-        "price": "10"
+        "price": "10",
+        "status": ""
     },
     {
         "id": 25,
@@ -197,7 +221,8 @@
         "version": "Digipack",
         "img": "assets/images/PERFUMEDigipack.png",
         "link": "https://pocamarket.com/search/detail/116732",
-        "price": "5.5"
+        "price": "5.5",
+        "status": ""
     },
     {
         "id": 26,
@@ -205,7 +230,8 @@
         "version": "Japan exclusive A",
         "img": "assets/images/GOLDENAGEJapanA.png",
         "link": "https://buyee.jp/mercari/item/m63035200248?conversionType=Mercari_DirectSearch",
-        "price": "8.43"
+        "price": "8.43",
+        "status": ""
     },
     {
         "id": 27,
@@ -213,7 +239,8 @@
         "version": "Japan exclusive B",
         "img": "assets/images/GOLDENAGEJapanB.png",
         "link": "https://buyee.jp/mercari/item/m24616033589?conversionType=Mercari_DirectSearch",
-        "price": "23.40"
+        "price": "23.40",
+        "status": ""
     },
     {
         "id": 28,
@@ -221,7 +248,8 @@
         "version": "Target exclusive",
         "img": "assets/images/GOLDENAGETarget.png",
         "link": "https://buyee.jp/mercari/item/m24616033589?conversionType=Mercari_DirectSearch",
-        "price": "59.67"
+        "price": "59.67",
+        "status": ""
     },
     {
         "id": 29,
@@ -229,7 +257,8 @@
         "version": "D2C exclusive",
         "img": "assets/images/GOLDENAGEd2c.jpg",
         "link": "https://www.carousell.sg/p/go-wts-nct-2023-golden-age-target-d2c-album-127-fact-check-deluxe-box-pc-photocard-1259888895/",
-        "price": "18.28"
+        "price": "18.28",
+        "status": ""
     },
     {
         "id": 30,
@@ -237,7 +266,8 @@
         "version": "Walmart exclusive",
         "img": "assets/images/FACTCHECKWalmart.png",
         "link": "https://buyee.jp/mercari/item/m11943117709?conversionType=Mercari_DirectSearch",
-        "price": "93.60"
+        "price": "93.60",
+        "status": ""
     },
     {
         "id": 31,
@@ -245,7 +275,8 @@
         "version": "D2C exclusive",
         "img": "assets/images/FACTCHECKd2c.png",
         "link": "https://buyee.jp/mercari/item/m70484550052?conversionType=Mercari_DirectSearch",
-        "price": "63.18"
+        "price": "63.18",
+        "status": ""
     },
     {
         "id": 32,
@@ -253,7 +284,8 @@
         "version": "B&N exclusive",
         "img": "assets/images/FACTCHECKb&n.jpg",
         "link": "https://x.com/pocapocagerae/status/1844047309950357931/photo/1",
-        "price": "30"
+        "price": "30",
+        "status": ""
     },
     {
         "id": 33,
@@ -261,7 +293,8 @@
         "version": "Japan Exclusive",
         "img": "assets/images/BETHEREFORMEJapan.png",
         "link": "https://pocamarket.com/search/detail/238348",
-        "price": "6"
+        "price": "6",
+        "status": ""
     },
     {
         "id": 34,
@@ -269,7 +302,8 @@
         "version": "Walmart exclusive",
         "img": "assets/images/BETHEREFORMEWalmart.png",
         "link": "https://buyee.jp/mercari/item/m80888047039?conversionType=Mercari_DirectSearch",
-        "price": "65.52"
+        "price": "65.52",
+        "status": ""
     },
     {
         "id": 35,
@@ -277,7 +311,8 @@
         "version": "Target exclusive",
         "img": "assets/images/BETHEREFORMETarget.png",
         "link": "https://buyee.jp/mercari/item/m76148435795?conversionType=Mercari_DirectSearch",
-        "price": "30.42"
+        "price": "30.42",
+        "status": ""
     },
     {
         "id": 36,
@@ -285,6 +320,7 @@
         "version": "Podcast",
         "img": "assets/images/WALKPodcast.png",
         "link": "https://pocamarket.com/search/detail/274451",
-        "price": "4"
+        "price": "4",
+        "status": ""
     }
 ]
